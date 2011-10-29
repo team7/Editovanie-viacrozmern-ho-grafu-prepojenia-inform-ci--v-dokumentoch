@@ -1,0 +1,8 @@
+PREDMET: Tímovı projekt 1
+TÉMA: Editovanie viacrozmerného grafu prepojenia informácií v dokumentoch
+VEDÚCI: Ing. Ivan Polášek, PhD. 
+AKADEMICKİ ROK: 2011/2012
+SEMESTER: zimnı
+ZADANIE:
+Úlohou tímu bude vytvori modul na editovanie grafu prepojenia informácií v dokumentoch. Bude nadväzova na prácu tímu è.9 z predchádzajúceho roku, ktorı vytvoril graf na zobrazenie prepojenia dokumentov pod¾a informácií v nich vo viacrozmernom grafe a ktorı by napomáhal tvorbe novıch dokumentov (analytickej a technickej dokumentácie, manuálov, zdrojovıch kódov a pod.) pomocou zvolenıch dokumentov.
+Hrany medzi jednotlivımi dokumentami majú rôzny vzor, farbu, hrúbku a podobne pod¾a mnostva odkazov, spoloènıch k¾úèovıch slov, autorov, èitate¾ov/pouívate¾ov, typov dokumentov a podobne. Jednotlivé algoritmy vyh¾adávania a prepojení je moné vypína, ako aj vybera v grafe vhodné dokumenty, vyraïova nepotrebné cesty alebo podgrafy. Na záver bude moné vybra zaujímavé dokumenty, ktoré budú zdrojom pre tvorbu obsahu nového dokumentu. 
